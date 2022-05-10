@@ -6,8 +6,7 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 public class GuideDto {
-    private int id;
+    private Integer id;
     private String name;
-    private String abbreviated_name;
-
+    private String reduction;
 }
