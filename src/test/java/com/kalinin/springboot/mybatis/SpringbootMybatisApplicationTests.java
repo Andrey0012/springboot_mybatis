@@ -1,4 +1,4 @@
-package com.kalinin.springboot.springboot_mybatis;
+package com.kalinin.springboot.mybatis;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
